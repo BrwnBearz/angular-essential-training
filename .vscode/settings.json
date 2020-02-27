@@ -1,5 +1,16 @@
 {
   "files.exclude": {
     "**/node_modules": {}
-  }
+  },
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#f18c79",
+    "titleBar.inactiveBackground": "#f18c7999",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveForeground": "#15202b99",
+    "panel.border": "#e73c1d",
+    "sideBar.border": "#e73c1d",
+    "editorGroup.border": "#e73c1d",
+    "tab.activeBorder": "#e73c1d"
+  },
+  "peacock.color": "#ec644b"
 }
